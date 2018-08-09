@@ -1,8 +1,9 @@
 # seq2seq/encoder-decoder
 
-
-![seq2seq]('assets/seq2seq.png')  
-![attention ]('./assets/attention.png')  
+seq2seq 
+![seq2seq](assets/seq2seq.png) 
+attention 
+![attention ](./assets/attention.png)  
 
 
 ##  test **seq2seq**　module
